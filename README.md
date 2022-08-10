@@ -70,8 +70,7 @@ Dataset link : https://archive.ics.uci.edu/ml/datasets/congressional+voting+reco
 • Use RGB input for training 
 • Report Precision & recall for each experiment
 
-### problem 4
-Anomaly detection – Feature Selection
+### problem 4 (Anomaly detection – Feature Selection)
 • Dataset:https://datasetsearch.research.google.com/search?query=Breast%20Cancer%20D
 ataset&docid=L2cvMTFqOWM3ejY5Yw%3D%3D
 Features are computed from a digitized image of a fine needle aspirate (FNA) of a breast 
